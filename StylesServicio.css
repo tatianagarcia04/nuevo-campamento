@@ -157,3 +157,10 @@ ul li {
     margin: 20px 0;
     box-shadow: 0 0 8px rgba(0,0,0,0.15);
 }
+.Iglesia {
+display: block;
+margin: 0 auto;
+width: 80%;
+max-width: 600px;
+border-radius: 10px;
+}
